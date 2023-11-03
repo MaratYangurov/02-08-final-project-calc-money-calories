@@ -1,5 +1,4 @@
 # 02-08-final-project-calc-money-calories
-# 02-08-final-project-calc-money-calories
 # Калькулятор денег и калорий
 Sprint 2. Итоговый проект.
 
